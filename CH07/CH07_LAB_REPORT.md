@@ -1,10 +1,8 @@
 # Lab Report — Chapter 7: Trees and Huffman Coding
 
-*Complete both sections and commit this file with your code.*
+
 
 ## Test Results
-
-*Paste your BFS and DFS orders, your encode/decode round trip, and your bit counts.*
 
 ```
 Part 1: Directory traversal
