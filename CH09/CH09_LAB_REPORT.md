@@ -1,11 +1,9 @@
 # Lab Report — Chapter 9: Dijkstra's Algorithm
 
-*Complete both sections and commit this file with your code.*
+
 
 ## Test Results
 
-*Paste your output — the costs table, the parents table, the path, and the
-negative-weight result.*
 
 ```
 === Part 1: Book's Start/A/B/Finish graph ===
