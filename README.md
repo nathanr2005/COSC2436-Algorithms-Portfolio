@@ -30,7 +30,7 @@ they can be applied to real problems.
 | CH11 | Dynamic Programming |
 | CH12 | K-Nearest Neighbors |
 
-Each folder contains the program files from that lab plus a CHxx_lap_REPORT.md documenting the test results and reflections.
+Each folder contains the program files from that lab plus a CHxx_LAB_REPORT.md documenting the test results and reflections.
 
 ## How to Run a Lab
 
