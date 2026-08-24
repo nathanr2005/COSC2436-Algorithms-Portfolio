@@ -1,6 +1,6 @@
 # COSC 2436 - Algorithms Portfolio
 
-A semester-long collection of 12-chapter labs covering data structures and algorithms in python.
+A semester-long collection of 12-chapter labs covering data structures and algorithms in Python.
 Each chapter folder contains the working program files plus a written lab report.
 
 ## Author
@@ -41,6 +41,7 @@ cd CH01
 python3 main.py
 ```
 ## Requirements
+
 - Python 3.10 or newer
 - CH01 additionally requires matplotlib for its growth chat:
 
