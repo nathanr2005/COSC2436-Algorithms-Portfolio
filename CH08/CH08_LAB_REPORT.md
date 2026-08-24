@@ -1,10 +1,8 @@
 # Lab Report — Chapter 8: Balanced Trees
 
-*Complete both sections and commit this file with your code.*
 
 ## Test Results
 
-*Paste your output — both tree heights, comparison counts, and the AVL result.*
 
 ```=== PART 1: Basic BST operations ===
 [20, 30, 40, 50, 70]
