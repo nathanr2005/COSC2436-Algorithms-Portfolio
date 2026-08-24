@@ -3,7 +3,7 @@
 
 ## Test Results
 
-*Paste your printed step counts and describe what your growth chart shows.*
+
 
 ```I tested both linear search and binary search using the sampled sorted lits. I aswell tested both algorithms with increasingly larger lists to compare how the number of their steps grow.
 
