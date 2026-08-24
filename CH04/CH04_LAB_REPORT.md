@@ -1,12 +1,10 @@
 # Lab Report — Chapter 4: Quicksort
 
-*Complete both sections and commit this file with your code.*
-
 ## Test Results
 
 The program tested quicksort on unsorted, sorted and reverse sorted lists using both strategies. The results showed that the pivot choice can have a huge effect on how well quicksort performs.
 
-```text
+```
 Part 1: Divide & Conquer warm-ups
 recursive_sum: 52
 recursive_count: 12
