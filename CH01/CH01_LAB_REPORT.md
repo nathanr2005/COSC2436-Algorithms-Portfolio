@@ -1,7 +1,5 @@
 # Lab Report — Chapter 1: Binary Search
 
-*Complete both sections and commit this file with your code.*
-
 
 ## Test Results
 
@@ -42,4 +40,4 @@ n = 1000000| Linear: 1000000 | binary: 19
    - Binary search eliminates about half of the remaining list every time it makes a guess. Each step cuts the amount of data left to search in half.
 
 3. **Where does binary search show up in real software?**
-Binary search can be useful in software whenever sorted info needs to be search efficiently. Such as a program could use binary search to find a value in a large collection without checking each one individually.
+Binary search can be useful in software whenever sorted info needs to be search efficiently. For example, a program could use binary search to find a value in a large collection without checking each item individually.
