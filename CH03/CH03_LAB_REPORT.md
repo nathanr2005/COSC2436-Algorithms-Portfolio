@@ -1,10 +1,8 @@
 # Lab Report — Chapter 3: Recursion
 
-*Complete both sections and commit this file with your code.*
 
 ## Test Results
 
-*Paste your output, including part of the call-stack trace.*
 
 ```This program was able to search through the folders recursively, count all files, calculate their total size, and print folder structure. Call stack trace also showed program going deeper into folders and then returning back.
 
