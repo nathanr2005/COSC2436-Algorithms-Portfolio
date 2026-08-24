@@ -1,12 +1,11 @@
 # Lab Report — Chapter 2: Selection Sort
 
-*Complete both sections and commit this file with your code.*
 
 ## Test Results
 
-*Paste your sorted lists and your ranked artist output.*
 
-```text
+
+```
 I tested find_smallest, selection_sort, and rank_artists. The results showed that the lists have been sorted correctly and the artists were ranked from most to least played.
 
 find_smallest results:
