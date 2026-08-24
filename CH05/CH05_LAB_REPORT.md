@@ -1,10 +1,8 @@
 # Lab Report — Chapter 5: Hash Tables
 
-*Complete both sections and commit this file with your code.*
+
 
 ## Test Results
-
-*Paste your cache hit/miss output and your collision comparison.*
 
 ```
 555-1234
