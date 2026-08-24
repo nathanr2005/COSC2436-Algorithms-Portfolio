@@ -1,10 +1,8 @@
 # Lab Report — Chapter 11: Dynamic Programming
 
-*Complete both sections and commit this file with your code.*
 
 ## Test Results
 
-*Paste your call counts, your printed grid, and both string results.*
 
 ```
 Part 1: Measure the waste
