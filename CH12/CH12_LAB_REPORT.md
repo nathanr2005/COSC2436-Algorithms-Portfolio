@@ -1,10 +1,9 @@
 # Lab Report — Chapter 12: K-Nearest Neighbors
 
-*Complete both sections and commit this file with your code.*
+
 
 ## Test Results
 
-*Paste your output — the k comparison, the before/after normalization results, and your recommendation.*
 
 ```
 [{'features': [6, 4], 'label': 'orange'}, {'features': [7, 3], 'label': 'orange'}]
