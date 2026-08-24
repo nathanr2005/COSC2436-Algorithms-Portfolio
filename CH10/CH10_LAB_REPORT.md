@@ -1,10 +1,8 @@
 # Lab Report — Chapter 10: Greedy Algorithms
 
-*Complete both sections and commit this file with your code.*
 
 ## Test Results
 
-*Paste your scheduling result, both knapsack answers side by side, your set cover, and your subset counts.*
 
 ```
 Part 1: Scheduled classes
